@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/luccidx](https://github.com/luccidx)
 
-- 📝 I regularly write articles on [https://medium.com/@girisantoshkumar1999](https://medium.com/@girisantoshkumar1999)
+- 📝 I write articles on [https://medium.com/@girisantoshkumar1999](https://medium.com/@girisantoshkumar1999)
 
 - 💬 Ask me about **Academic Projects**
 
