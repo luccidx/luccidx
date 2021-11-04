@@ -2,6 +2,7 @@
 <h3 align="center">A passionate Learner from India</h3>
 
 <img src="Luccidx.jpg">
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1019520421&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/luccid-x" title="Luccid X" target="_blank" style="color: #cccccc; text-decoration: none;">Luccid X</a> · <a href="https://soundcloud.com/luccid-x/2ost" title="2OST" target="_blank" style="color: #cccccc; text-decoration: none;">2OST</a></div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luccidx&label=Profile%20views&color=0e75b6&style=flat" alt="luccidx" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=luccidx" alt="luccidx" /></a> </p>
