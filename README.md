@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm G Santosh Kumar</h1>
 <h3 align="center">A passionate Learner from India</h3>
 
-<img src="Luccidx.jpg">
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="g-santosh-kumar" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/g-santosh-kumar?trk=profile-badge">G Santosh Kumar</a></div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luccidx&label=Profile%20views&color=0e75b6&style=flat" alt="luccidx" /> </p>
 
