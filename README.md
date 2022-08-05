@@ -7,6 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=luccidx" alt="luccidx" /></a> </p>
 
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="e333515f-2437-4e9d-bc97-5a19fd0cb816" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 - 🔭 I’m currently working on [Greenway for Ambulance Project](https://github.com/luccidx/Greenway-for-Ambulance-by-Automatic-Control-of-Traffic-Lights)
 
