@@ -1,25 +1,29 @@
-<h1 align="center">Hi 👋, I'm G Santosh Kumar</h1>
-<h3 align="center">A passionate Learner from India</h3>
+<h1 align="center">Hi I'm G Santosh Kumar</h1>
+<h3 align="center">A Software Developer from Bengaluru,KA INDIA 🕉️</h3>
 
 <p class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="g-santosh-kumar" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/g-santosh-kumar?trk=profile-badge">G Santosh Kumar</a></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luccidx&label=Profile%20views&color=0e75b6&style=flat" alt="luccidx" /> </p>
 
+<!--
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=luccidx" alt="luccidx" /></a> </p>
+-->
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="e333515f-2437-4e9d-bc97-5a19fd0cb816" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
-- 🔭 I’m currently working on [Greenway for Ambulance Project](https://github.com/luccidx/Greenway-for-Ambulance-by-Automatic-Control-of-Traffic-Lights)
+- 🌱 I’m currently learning **Data Structures and Algorithms, LLD & HLD**
 
-- 🌱 I’m currently learning **HTML, CSS, JS, JQuery, XML & Json**
+- 👯 I’m looking to collaborate on **Projets which involves FullStack**
 
-- 👯 I’m looking to collaborate on **Innovative Projects**
+- 🏢 I'm Currently working as an **Associate Software Engineer at Accenture** 
+
+- 🥇 My Skills include:
+☼ Java SE & EE ☼ Oracle SQL ☼ Linux ☼ Embedded C ☼ Splunk ☼ Application Support 
 
 - 👨‍💻 All of my projects are available at [https://github.com/luccidx](https://github.com/luccidx)
 
 - 📝 I write articles on [https://medium.com/@girisantoshkumar1999](https://medium.com/@girisantoshkumar1999)
 
-- 💬 Ask me about **Academic Projects**
+- 💬 Ask me about **Problem Solving**
 
 - 📫 How to reach me **girisantoshkumar1999@gmail.com**
 
