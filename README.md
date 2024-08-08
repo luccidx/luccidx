@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello! I am Santosh. <br>I am a software Engineer.<br>I am an aspiring Data Scientist.  
+Hello! I am Santosh. <br>I am a software Engineer.<br>
 
 
 ## 🌐 Socials:
