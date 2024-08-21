@@ -1,6 +1,6 @@
 # 💫 About Me:
-Hello! I am Santosh. <br>I am a software Engineer.<br>
-
+Hello! I am Santosh. <br>I am a software Engineer.<be>
+<img src="https://www.canva.com/design/DAGOdwiezjE/b5MgKPUPeUZBZT5MBjomkw/edit?utm_content=DAGOdwiezjE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/santosh.roxstar34) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/santoshkumar.girish) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/g-santosh-kumar) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@girisantoshkumar1999) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/g_santoshkumar1) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@girisantoshkumar) 
