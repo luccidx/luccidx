@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello! I am Santosh. <br>I am a software Engineer.<br>
+Hello! I am Santosh. <br>I am a software Engineer and Data Enthusiast<br>
 <img src="G Santosh kumar (1).png"> 
 
 ## 🌐 Socials:
